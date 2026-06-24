@@ -21,7 +21,7 @@ The project answers these questions using behavioral and financial data.
 - Bank churn dataset (churn behavior) 
 
 - Uci credit dataset (repayment & delinquency)
-- 
+  
 Key data includes:
 
 - Credit limit 
